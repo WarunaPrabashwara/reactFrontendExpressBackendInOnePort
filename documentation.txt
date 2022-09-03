@@ -1,0 +1,43 @@
+https://www.bezkoder.com/integrate-react-express-same-server-port/
+
+uda site eka balaagena thama meeka kaleee
+
+thani port eke front end saha back end run karanna thama yanne 
+
+
+react project eke ithub link eka wAda ne 
+so eka aran 
+npm run build
+kala 
+ita passe
+
+yarn global add serve
+serve -s build			[ meeka run karanna api build folder eka athulata yanna oni nahga ./normal root folder eke idalamai gahanne ]
+
+node js github link eka wada nahya 
+so mama eka implement karanna yanne 
+
+mulin backend folder ekak hadanna 
+
+https://www.geeksforgeeks.org/steps-to-create-an-express-js-application/
+link eke widihata karamu 
+
+npm init
+npm install express
+dan app.js file ekak hadanna
+
+
+
+
+
+
+node app.
+
+seken run karnne
+
+
+
+
+
+code eka baluwama terei seen eka 
+
